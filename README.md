@@ -76,25 +76,6 @@ The project can use:
 * Bluetooth communication
 * Android Text-to-Speech
 
-## 📂 Project Structure
-
-```text
-smart-assistive-headset/
-│
-├── esp32/
-│   └── smart_headset.ino
-│
-├── mobile-app/
-│   └── MIT-App-Inventor/
-│
-├── circuit/
-│   └── circuit-diagram.png
-│
-├── images/
-│   └── project-photos/
-│
-└── README.md
-```
 
 ## 🎯 Future Improvements
 
